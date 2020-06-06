@@ -1,2 +1,4 @@
 .DS_Store
 mongodb_flask_env/lib
+config.txt
+mongodb_flask/__pycache__
