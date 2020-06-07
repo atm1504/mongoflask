@@ -3,3 +3,4 @@ env/lib
 config.txt
 mongodb_flask/__pycache__
 .vscode
+mongodb_flask/__pycache__
